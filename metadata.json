@@ -1,0 +1,6 @@
+{
+  "name": "InternAI: Internship Work Analysis System",
+  "description": "An AI-powered dashboard for analyzing internship productivity, sentiment, and task completion prediction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Analysis", "Data Visualization"]
+}
